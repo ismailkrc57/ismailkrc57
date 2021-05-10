@@ -1,13 +1,17 @@
 ### Hi there 👋, I'am İsmail Karaca
 #### Software Engineering Student
-![Software Engineering Student](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailkrc57&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkrc57&langs_count=8)](https://github.com/ismailkrc57/github-readme-stats))
+I am a second year software engineering student at Istanbul Maltepe University.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Skills: C, C#, Java, Html, CSS, 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+- 🌱 I’m currently learning Java & React 
+- 📫 How to reach me: ismilkrc571@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ismailkrc57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ismail-karaca-443915177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ismailkrc07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ismailkrc57)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkrc57)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailkrc57&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/ismailkrc57)  
