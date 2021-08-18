@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am İsmail Karaca
 #### Software Engineering Student
-I am a second year software engineering student at Istanbul Maltepe University.
+I am a third year software engineering student at Istanbul Maltepe University.
 
 Skills: C, C#, Java, Html, CSS, 
 
