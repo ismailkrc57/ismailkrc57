@@ -2,7 +2,7 @@
 #### Software Engineering Student
 I am a third year software engineering student at Istanbul Maltepe University.
 
-Skills: C, C#, Java, SpringBoot, JavaScript, React, Html, CSS, 
+Skills: C, C#, Java, SpringBoot, JavaScript, Typescript, React, Angular,  Html, CSS, SQL
  
 - 📫 How to reach me: ismilkrc571@gmail.com 
 
