@@ -1,8 +1,8 @@
 ### Hi there 👋, I'am İsmail Karaca
 #### Software Engineering Student
-I am a third year software engineering student at Istanbul Maltepe University.
+I am a fourth year software engineering student at Istanbul Maltepe University.
 
-Skills: C, C#, Java, SpringBoot, JavaScript, Typescript, React, Angular,  Html, CSS, SQL
+Skills: C, C#, .Net Core, Java, SpringBoot, JavaScript, Typescript, React, Angular,  Html, CSS, SQL
  
 - 📫 How to reach me: ismilkrc571@gmail.com 
 
